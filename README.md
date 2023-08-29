@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winifred-kay
 - 👀 I’m interested in data analysis, machine learning, natural language processing
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... w_fredkay on instagram
 
